@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+</div>
 
-<!--
-**NotDumbDev/NotDumbDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NotDumbDev.NotDumbDev&right_color=cornflowerblue"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">Hey, im NotDumbDev</h2>
+
+###
+
+<h3 align="center">About Me</h3>
+
+###
+
+<h4 align="left">- Im a professional Roblox Scripter with 5 years of scripting experience with Roblox Luau. <br>- Currently learning Roblox Typescript</h4>
+
+###
+
+<h3 align="left">Tools & Languages i use:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/output/snake.svg" alt="Snake animation" />
+
+###
