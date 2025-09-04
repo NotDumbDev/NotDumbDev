@@ -43,9 +43,3 @@
 
 <div align="center">
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/output/snake.svg" alt="Snake animation" />
-
-###
