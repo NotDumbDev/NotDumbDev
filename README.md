@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">- Im a professional Roblox Scripter with 5 years of scripting experience with Roblox Luau. <br>- Currently learning Roblox Typescript</h4>
+<h4 align="left">- Im a professional Roblox Scripter with 5 years of scripting experience with Roblox Luau. <br>- Currently learning Roblox Typescript<br>- Currenly working on a custom IDE (soon!)</h4>
 
 ###
 
