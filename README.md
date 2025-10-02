@@ -10,13 +10,14 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
 
 ### Experienced
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,py,nodejs,git,github,figma,robloxstudio,discord" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,py,nodejs,react,git,github,figma,robloxstudio,discord" />
 </p>
 
 ### Still Learning / Little Knowledge
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,assembly" />
 </p>
+
 
 ---
 
