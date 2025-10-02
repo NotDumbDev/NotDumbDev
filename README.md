@@ -1,45 +1,35 @@
-<div align="center">
-</div>
+# 👋 Hey there, I'm **NotDumbDev**!
 
-###
+🎮 Fullstack Roblox Scripter | Student in Saarland, Germany | 5+ years of experience with luau
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NotDumbDev.NotDumbDev&right_color=cornflowerblue"  />
-</div>
+Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're looking to hire me!
 
-###
+---
 
-<h2 align="center">Hey, im NotDumbDev</h2>
+## Tools & Languages
 
-###
+### Experienced
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,py,nodejs,git,github,figma,robloxstudio,discord" />
+</p>
 
-<h3 align="center">About Me</h3>
+### Still Learning / Little Knowledge
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,assembly" />
+</p>
 
-###
+---
 
-<h4 align="left">- Im a professional Roblox Scripter with 5 years of scripting experience with Roblox Luau. <br>- Currently learning Roblox Typescript<br>- Currenly working on a custom IDE (soon!)</h4>
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <br>
+    
+  <img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/output/snake.svg" alt="Snake animation" />
+</details>
 
-###
-
-<h3 align="left">Tools & Languages i use:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
+---
+## Profile Views
 
 <div align="center">
+  <img src="https://count.getloli.com/@:NotDumbDev?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
