@@ -1,5 +1,4 @@
 # 👋 Hey there, I'm **NotDumbDev**!
-
 🎮 Fullstack Roblox Scripter | Student in Saarland, Germany | 5+ years of experience with luau
 
 Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're looking to hire me!
@@ -7,6 +6,9 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
 ---
 
 ## Tools & Languages
+
+> [!IMPORTANT]
+> Im currently learning rbxts, so my Luau skills might be a bit worse than usual!
 
 ### Experienced
 <p align="center">
@@ -18,7 +20,6 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,assembly" />
 </p>
 
-
 ---
 
 <details>
@@ -29,8 +30,8 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
 </details>
 
 ---
-## Profile Views
 
+## Profile Views
 <div align="center">
   <img src="https://count.getloli.com/@:NotDumbDev?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
