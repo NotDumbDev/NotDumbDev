@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **NotDumbDev**!
+# 👋 Hey there, I'm **Emilia** (aka NotDumbDev)!
 🎮 Fullstack Roblox Scripter | Student in Saarland, Germany | 5+ years of experience with luau
 
 Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're looking to hire me!
@@ -35,3 +35,7 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
 <div align="center">
   <img src="https://count.getloli.com/@:NotDumbDev?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+
+--- 
+My current avatar was made by @whitemaskanimator!
