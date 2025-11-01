@@ -1,14 +1,19 @@
-# 👋 Hey there, I'm **Emilia** (aka NotDumbDev)!
-🎮 Fullstack Roblox Scripter | Student in Saarland, Germany | 5+ years of experience with luau
+<h1 align="center">Hey there, I'm Emilia!</h1>
 
-Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're looking to hire me!
+<p align="center">
+<img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/refs/heads/main/Assets/roblox-white.svg" width="15" height="15" />
+<strong>Fullstack Roblox Scripter</strong><br>
+<strong>Student in Saarland, Germany  </strong><br>
+<strong>5+ years</strong> of experience with <img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/refs/heads/main/Assets/lang_luau.svg" width="15" height="15"> <strong>Luau</strong> and <strong>2 months</strong> of experience with <img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/refs/heads/main/Assets/typescript.svg" width="15" height="15"> <strong>rbxts!</strong>
+</p>
+
+<p align="center">
+  Check out my <a href="https://notdumbdev.github.io/Portfolio/" target="_blank"><b>Portfolio</b></a> if you're looking to hire me!
+</p>
 
 ---
 
 ## Tools & Languages
-
-> [!IMPORTANT]
-> Im currently learning rbxts, so my Luau skills might be a bit worse than usual!
 
 ### Experienced
 <p align="center">
@@ -27,15 +32,14 @@ Check out my [portfolio](https://notdumbdev.github.io/Portfolio/) if you're look
   <br>
     
   <img src="https://raw.githubusercontent.com/NotDumbDev/NotDumbDev/output/snake.svg" alt="Snake animation" />
-</details>
+
+  ## Profile Views
+  <div align="center">
+    <img src="https://count.getloli.com/@:NotDumbDev?theme=miku&padding=7&scale=1&align=top&pixelated=0&darkmode=1"  />
+  </div>
+
+</details><br>
 
 ---
 
-## Profile Views
-<div align="center">
-  <img src="https://count.getloli.com/@:NotDumbDev?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-
---- 
-My current avatar was made by @whitemaskanimator!
+<p align="center">My current avatar was drawn by @whitemaskanimator ♥️</p>
