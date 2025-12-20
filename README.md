@@ -11,18 +11,25 @@
   Check out my <a href="https://notdumbdev.github.io/Portfolio/" target="_blank"><b>Portfolio</b></a> if you're looking to hire me!
 </p>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚧%20Pronouns-she%2Fher-%23ff69b4?style=flat"
+    alt="Pronouns: she/her"
+  />
+</p>
+
 ---
 
 ## Tools & Languages
 
 ### Experienced
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,py,nodejs,react,git,github,figma,robloxstudio,discord" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,py,nodejs,react,git,github,figma,robloxstudio,discord,ts" />
 </p>
 
-### Still Learning / Little Knowledge
+### Little Knowledge
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,assembly" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" />
 </p>
 
 ---
