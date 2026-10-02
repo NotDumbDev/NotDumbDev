@@ -1,6 +1,6 @@
 # hello :wave: im Emilia!
 <p>Im a Fullstack Programmer on the Roblox Platform.<br></p>
-<p>I've Contributed to <strong>60k+</strong> Visits.</p>
+<p>I've Contributed to <strong>150k+</strong> Visits.</p>
 <p>I mainly specialize in rbxts, but im also good with luau.</p>
 
 ---
